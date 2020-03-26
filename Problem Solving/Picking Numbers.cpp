@@ -1,7 +1,4 @@
-int max(int a, int b){
-    if(a>b)return a;
-    else return b;
-}
+
 int pickingNumbers(vector<int> a) {
     vector <int> arr(100, 0);
     int n = a.size();
